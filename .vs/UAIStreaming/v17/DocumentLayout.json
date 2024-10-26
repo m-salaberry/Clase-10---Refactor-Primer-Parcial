@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D09FA7-F5D2-42A2-BD97-ADE698028F2E}|UI\\UI.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D09FA7-F5D2-42A2-BD97-ADE698028F2E}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E736504C-9BBC-47C4-B156-8D05583F5613}|Business\\BLL.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\business\\peliculabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E736504C-9BBC-47C4-B156-8D05583F5613}|Business\\BLL.csproj|solutionrelative:business\\peliculabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D09FA7-F5D2-42A2-BD97-ADE698028F2E}|UI\\UI.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D09FA7-F5D2-42A2-BD97-ADE698028F2E}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4DBB2F-DA0F-440F-882F-9DA95B12E080}|Data\\DAL.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\data\\peliculadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4DBB2F-DA0F-440F-882F-9DA95B12E080}|Data\\DAL.csproj|solutionrelative:data\\peliculadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CB012D-1457-40B5-9A79-57EDB01E65EC}|Mapper\\Mapper.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\mapper\\peliculamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CB012D-1457-40B5-9A79-57EDB01E65EC}|Mapper\\Mapper.csproj|solutionrelative:mapper\\peliculamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB87EBB-4942-4E5A-8C33-02BFC113A813}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\entity\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB87EBB-4942-4E5A-8C33-02BFC113A813}|Entity\\Entity.csproj|solutionrelative:entity\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB87EBB-4942-4E5A-8C33-02BFC113A813}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB87EBB-4942-4E5A-8C33-02BFC113A813}|Entity\\Entity.csproj|solutionrelative:entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E736504C-9BBC-47C4-B156-8D05583F5613}|Business\\BLL.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\business\\categoriabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E736504C-9BBC-47C4-B156-8D05583F5613}|Business\\BLL.csproj|solutionrelative:business\\categoriabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4DBB2F-DA0F-440F-882F-9DA95B12E080}|Data\\DAL.csproj|c:\\users\\user\\desktop\\1er parcial\\matias_salaberry\\uaistreaming\\data\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4DBB2F-DA0F-440F-882F-9DA95B12E080}|Data\\DAL.csproj|solutionrelative:data\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:39:31.103Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwIUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:48:41.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Business\\PeliculaBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\PeliculaBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Business\\PeliculaBusiness.cs",
+              "RelativeToolTip": "Business\\PeliculaBusiness.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4v1MAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:33:25.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Data\\PeliculaDAO.cs",
+              "RelativeDocumentMoniker": "Data\\PeliculaDAO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Data\\PeliculaDAO.cs",
+              "RelativeToolTip": "Data\\PeliculaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:33:08.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Mapper\\PeliculaMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\PeliculaMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Mapper\\PeliculaMapper.cs",
+              "RelativeToolTip": "Mapper\\PeliculaMapper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:53:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Entity\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Entity\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Entity\\Pelicula.cs",
+              "RelativeToolTip": "Entity\\Pelicula.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:29:41.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Business\\CategoriaBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\CategoriaBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Business\\CategoriaBusiness.cs",
+              "RelativeToolTip": "Business\\CategoriaBusiness.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:12:05.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Data\\CategoriaDAO.cs",
+              "RelativeDocumentMoniker": "Data\\CategoriaDAO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Data\\CategoriaDAO.cs",
+              "RelativeToolTip": "Data\\CategoriaDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:11:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Entity\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entity\\Categoria.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1er Parcial\\Matias_Salaberry\\UAIStreaming\\Entity\\Categoria.cs",
+              "RelativeToolTip": "Entity\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:32:03.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

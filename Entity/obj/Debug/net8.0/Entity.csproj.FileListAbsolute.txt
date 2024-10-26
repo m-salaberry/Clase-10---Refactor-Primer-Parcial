@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\user\Desktop\1er Parcial\Matias_Salaberry\UAIStreaming\Entity\obj\Debug\net8.0\ref\Entity.dll
